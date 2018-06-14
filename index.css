@@ -1,0 +1,47 @@
+body {
+  font-size: 80%;
+  font-family: arial,helvetica,geneva,sans-serif;
+ background-color: #008080; color:#FFFFFF;
+
+}
+#footer{
+  font-size: 80%;
+  text-align: center;
+  float:bottom;
+}
+article{
+  font-size: 14px;
+  padding: 10px;
+  font-style: italic;
+  text-decoration: inherit;
+  font-size: 80%;
+   background-color: #FF8080; color:#FFFF00;
+}
+.header{
+  font-size: 80%;
+  text-align: center;
+  text-decoration: line-through;
+}
+
+
+#header{
+    background-color: #888080; color:#00FFFF;
+    text-align: center;
+}
+#nav{
+      background-color: #888888; color:#00FF00;
+      float:left;
+      text-decoration-color: red;
+  font-weight: bold;
+position: absolute;
+    top: 0;
+    left: 0;
+    width: 200px;
+}
+
+.li span {
+background: gold;
+}
+#section{
+      background-color: #ffff88; color:#ffFF00;
+}
